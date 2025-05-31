@@ -158,7 +158,7 @@ Após rotação dupla (esquerda em 10, direita em 30):
 | Nome do Aluno                    | RA         |
 | -------------------------------- | ---------- |
 | LUIS CARLOS SANTOS MELO DE JESUS | 1272122545 |
-|                                  |            |
-|                                  |            |
+|  DIEGO MENEZES MIRANDA DA SILVA  | 1272123037 |
+|  ISAC DANIEL PEREIRA DE ALMEIDA  | 12723116417|
 |                                  |            |
 |                                  |            |
