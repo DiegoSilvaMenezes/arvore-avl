@@ -1,3 +1,5 @@
+// Para o teste funcionar corretamente é necessário instalar os freamework que estão disponivel no arquivo freamework//
+
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
