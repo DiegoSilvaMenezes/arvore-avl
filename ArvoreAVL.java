@@ -170,6 +170,17 @@ public class ArvoreAVL {
             imprimir(no.direito, prefixo + (ehDireito ? "    " : "│   "), true);
         }
     }
+
+//  Método adicionado para corrigir o erro do código de teste
+    public int contarNos() {
+        return contarNos(raiz);
+    }
+
+    private int contarNos(No no) {
+        if (no == null) return 0;
+        return 1 + contarNos(no.esquerdo) + contarNos(no.direito);
+    }
+
 }
 
 
